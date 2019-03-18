@@ -44,8 +44,8 @@ const sendEmail = (to, name, token, type, actionData = null) => {
     const smtpTransport = mailer.createTransport({
         service: "Sendgrid",
         auth: {
-            user: "avo1992",
-            pass: 'minhkhang1'
+            user: "",
+            pass: ''
         }
     });
 
