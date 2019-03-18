@@ -61,7 +61,7 @@ $ npm install
 $ cd e-shoes/client
 $ npm install
 ```
-4. Start server: <br/>>
+4. Start server: <br/>
 ```
 $ cd e-shoes/server
 $ node server.js **or** nodemon server.js (if nodemon installed)
