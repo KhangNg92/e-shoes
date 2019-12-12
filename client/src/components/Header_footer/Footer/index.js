@@ -67,12 +67,11 @@ const Footer = ({ data }) => {
 
                             <div>
                                 <div>
-                                    My name is Khang, who is currently a software developer. If you like this website.
-                                   Please contact me at the information on the left-side and also visit my social links below. Enjoy :)
+                                    My name is Ryan, I previously worked in mental health and have recently come back to software development, my first love.
                             </div>
                                 <br />
-                                <a href="https://www.linkedin.com/in/khang-nguyen92/">  <i className="fab fa-linkedin fa-3x"></i></a>
-                                <a href="https://github.com/KhangNg92">  <i className="fab fa-github fa-3x"></i></a>
+                                <a href="https://www.linkedin.com/in/ryandiercks/">  <i className="fab fa-linkedin fa-3x"></i></a>
+                                <a href="https://github.com/ryandiercks">  <i className="fab fa-github fa-3x"></i></a>
                             </div>
                         </div>
                     </div>
