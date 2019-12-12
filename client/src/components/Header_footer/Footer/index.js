@@ -42,8 +42,7 @@ const Footer = ({ data }) => {
                                 <div className="tag">
                                     <FontAwesomeIcon
                                         icon={faClock}
-                                        className="icon"
-                                        
+                                        className="icon"                                      
                                     />
                                     <div className="nfo">
                                         <div>Working hours</div>
